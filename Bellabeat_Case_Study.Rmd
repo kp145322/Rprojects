@@ -3,7 +3,6 @@ title: "Bellabeat_Case_Study"
 author: "KP"
 date: "last updated 8/20/2021"
 output:
-  pdf_document: default
   html_document: default
 ---
 
